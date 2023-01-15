@@ -1,0 +1,13 @@
+name = "Alpaca SMP"
+author = "Scott Gould (greysilly7@gmail.com)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dadc9d4f05286d405c19008d68fb32869ff057694651ba65e464d0b9dcd41af2"
+
+[versions]
+fabric = "0.14.12"
+minecraft = "1.19.3"
