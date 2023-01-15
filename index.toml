@@ -81,11 +81,6 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/suggestion-tweaker.pw.toml"
-hash = "c24170ea2222370f7113c041ebb80ea30cef76eba7ade25a861bd1e30ada3738"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "e50fbf20fc8c0a816f3325959a1ceab64c160b0b3bcc83f701ffdbfa771dad4b"
 metafile = true
