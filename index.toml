@@ -61,6 +61,16 @@ hash = "4809dda00e0db763f5dd8a58ddafb5d75d70ba4c3a1ec764a95865d208428b44"
 metafile = true
 
 [[files]]
+file = "mods/polymc.pw.toml"
+hash = "88539cd5a38706c38d56ee0f924350bf6ca065d6d6a3cb1c1db8cf9176b3ff74"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "aa31031741702bc20d76d3f843c103c39a1a13aaea49e7003757b6913fc4b01c"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "82f5f6f055d70725d71947c519786eaf7757b8221ad5e2d5c4398ecf0360812a"
 metafile = true
