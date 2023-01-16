@@ -51,6 +51,10 @@ hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
 metafile = true
 
 [[files]]
+file = "mods/mcunsafe-0.0.0-build.local.jar"
+hash = "a43b4194177d90e141d6214fe05e63879d94aa27ecf3b29252e3b0e6fef66dc8"
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
