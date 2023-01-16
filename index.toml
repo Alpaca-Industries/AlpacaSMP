@@ -26,8 +26,18 @@ hash = "f6bc53688790ec2d88c96568f6d7569bf0111931c569cf64b511cdbe95090c82"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "fe3d038b568820a74227e86aa61c8382e49644bc441e9b3d0d33554d333b34e9"
 metafile = true
 
 [[files]]
@@ -38,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "d8c5d10864c6ee4a5ffdcf775ef6325fb88e6441db9c5c7874be1a6f1d714250"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "badf7e1fb371f1cdac13ce547794339a58c64d87793ce4d5bf4151f99d5e2e00"
 metafile = true
 
 [[files]]
