@@ -16,6 +16,11 @@ hash = "9ec56a224c0b32ae551909bbdabec0f87194682c3e498edda5d53d4a0dac314c"
 metafile = true
 
 [[files]]
+file = "mods/discord4fabric.pw.toml"
+hash = "eef4678890fcb33bc6dbb51767c49ff90d0a2316627d4cfc6b35d89089682e4a"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6bc53688790ec2d88c96568f6d7569bf0111931c569cf64b511cdbe95090c82"
 metafile = true
