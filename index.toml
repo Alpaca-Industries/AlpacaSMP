@@ -11,6 +11,11 @@ hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
 metafile = true
 
 [[files]]
+file = "mods/cc-polymer.pw.toml"
+hash = "a8444f9d84dda6236b3aae9d96e0528ba725a74bfc67dbc040d75ad3e77b0f63"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "9ec56a224c0b32ae551909bbdabec0f87194682c3e498edda5d53d4a0dac314c"
 metafile = true
@@ -23,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
-metafile = true
-
-[[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "657262e9dfc9ac96a6084d499d9daad0e294c9fb6eef97ccb40a07c6c40e7b40"
 metafile = true
 
 [[files]]
