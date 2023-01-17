@@ -85,23 +85,8 @@ hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
-file = "mods/ottah.pw.toml"
-hash = "47d4e6d759f40f3838f4286b891837bbcfe653395576b40f0c473f0c5bed8285"
-metafile = true
-
-[[files]]
 file = "mods/plymouth-anti-xray.pw.toml"
 hash = "4809dda00e0db763f5dd8a58ddafb5d75d70ba4c3a1ec764a95865d208428b44"
-metafile = true
-
-[[files]]
-file = "mods/polymc.pw.toml"
-hash = "60a9f2a1f2ed39df2ca57f6e57246183f080e71d9331572a2c54c4ff41ee6f7d"
-metafile = true
-
-[[files]]
-file = "mods/polymer.pw.toml"
-hash = "aa31031741702bc20d76d3f843c103c39a1a13aaea49e7003757b6913fc4b01c"
 metafile = true
 
 [[files]]
